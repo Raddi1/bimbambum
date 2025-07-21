@@ -1,2 +1,1 @@
-print("BEBEBEBEBBEBE")
-print("BUBUBUUBUBUB")
+print("bebebe")
